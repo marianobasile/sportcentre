@@ -22,8 +22,4 @@ Le prenotazioni giornaliere sono anch'esse suddivise a seconda del tipo d'utente
 una riga di colore di sfondo verde, quelle trascorse attraverso una riga di colore di sfondo rosso.
 Gli utenti, allo stesso modo, potranno visualizzare le prenotazioni effettuate, accedendo alla propria area privata.
 Una mail avviserà l'utente nei seguenti casi:
--registrazione account
-
--richiesta reinoltro password
-
-- termine di una procedura di prenotazione.
+registrazione account; richiesta reinoltro password; termine di una procedura di prenotazione.
