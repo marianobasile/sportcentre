@@ -23,5 +23,7 @@ una riga di colore di sfondo verde, quelle trascorse attraverso una riga di colo
 Gli utenti, allo stesso modo, potranno visualizzare le prenotazioni effettuate, accedendo alla propria area privata.
 Una mail avviserà l'utente nei seguenti casi:
 -registrazione account
+
 -richiesta reinoltro password
+
 - termine di una procedura di prenotazione.
