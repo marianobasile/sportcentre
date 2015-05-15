@@ -1,0 +1,410 @@
+html
+{
+ height:100%;
+}
+
+body
+{
+ font-family: Arial,sans-serif;
+ font-size: 16px;
+ margin: 0px;
+ line-height: 25px;
+ height:100%;
+}
+
+#intestazione
+{
+ background-color:#f1f1f1;
+ height: 60px;
+ padding:1%;
+ margin-top:-16px;
+ border: 1px solid #e5e5e5;
+}
+
+#websitelogo
+{
+float:left;
+position:relative;
+top:15px;
+left:5%;
+height:40px;
+cursor:pointer;
+border:none;
+}
+
+.titlelogin
+{
+ font-size: 12px;
+ font-weight:bold;
+}
+
+label
+{
+ float:left;
+ position:relative;
+ left: 40%;
+ top:20px;
+ margin-right: 1%;
+}
+
+input
+{
+ float:left;
+ position:relative;
+ top: 20px;
+ left: 40%;
+ margin-right:1%;
+ margin-bottom:5px;
+}
+
+#descrizionesubtitle
+{
+ font-size: 13px;
+ color:#dd4b39;
+ position:relative;
+ top:190px;
+ right:130px;
+}
+
+
+#heart
+{
+ height:560px;
+ top: 35px;
+}
+
+#heartsx
+{
+ margin-left:50px;
+ margin-top:55px;
+ height: 380px;
+ width: 590px;
+ float:left;
+ padding: 0px 10px 30px 10px;
+}
+
+#descriptionone
+{
+ font-size: 15px;
+ font-weight:bold;
+ text-align:center;
+ background-color:#f1f1f1;
+ border: 1px solid transparent;
+}
+
+ul
+{
+list-style-type: none;
+padding:0px;
+margin: 10px 30px;
+float:left;
+}
+
+li
+{
+ margin-bottom:28px;
+}
+
+.loghi
+{
+ display:inline;
+ font-size: 15px;
+ margin-left: 10px;
+ position:relative;
+ top:-15px;
+}
+
+#heartdx
+{
+ margin-top: 20px;
+ background-color:#f1f1f1;
+ height: 495px;
+ width: 420px;
+ position:absolute;
+ right: 120px;
+ float:left;
+ padding: 5px 14px 5px 5px;
+}
+
+#heartdxreg
+{
+ margin-top: 100px;
+ background-color:#f1f1f1;
+ height: 335px;
+ width: 350px;
+ position:absolute;
+ right: 120px;
+ float:left;
+ border: 1px solid #e5e5e5;
+}
+
+#descrizionereg
+{
+ font-size: 13px;
+ font-weight:bold;
+ color:#12B000;
+ text-align:left;
+ position:relative;
+ top:30px;
+ right:80px;
+
+}
+
+#descriptiontwo
+{
+ font-size: 15px;
+ font-weight:bold;
+ text-align:center;
+}
+
+#descriptiontworeg
+{
+ font-size: 15px;
+ font-weight:bold;
+ text-align:left;
+ margin-left:30px;
+}
+#user
+{
+ position:relative;
+ left:130px;
+ top:0px;
+ background-color:#5679B6;
+ border: 1px solid transparent;
+ color:white;
+ margin-right:0px;
+ font-size: 11px;
+ font-weight: bold;
+ height: 28px;
+ width:80px;
+ letter-spacing:1px;
+}
+
+#userreg
+{
+ position:relative;
+ left:30px;
+ top:0px;
+ background-color:#5679B6;
+ border: 1px solid transparent;
+ color:white;
+ margin-right:0px;
+ font-size: 12px;
+ font-weight: bold;
+ height: 35px;
+ width:80px;
+}
+
+#factory
+{
+ position:relative;
+ left:130px;
+ top:0px;
+ border: 1px solid transparent;
+ background-color:grey;
+ margin-left:0px;
+ font-size: 11px;
+ font-weight: bold;
+ height: 28px;
+ width:80px;
+ color:white;
+ letter-spacing:1px;
+}
+ #factoryreg
+{
+ position:relative;
+ left:30px;
+ top:0px;
+ background-color:grey;
+  border: 1px solid transparent;
+ margin-left:0px;
+ font-size: 12px;
+ font-weight: bold;
+ height: 35px;
+ width:80px;
+ color:white;
+}
+.chartext
+{
+ font-size: 13px;
+ font-weight:bold;
+}
+
+.etichette
+{
+ position:relative;
+ left: 7%;
+ top: -10px;
+}
+.etichettereg
+{
+ position:relative;
+ left: 0px;
+ top: -5px;
+}
+
+.campi
+{
+ position:relative;
+ left: 7%;
+ height:20px;
+ top:-10px;
+}
+
+.campireg
+{
+ position:relative;
+ left: 0px;
+ height:25px;
+width: 280px;
+ top:-5px;
+ margin-bottom:15px;
+padding: 3px;
+}
+
+#data_birth_d
+{
+ position:relative;
+ left:-70px;
+ height:20px;
+ top:20px;
+ padding-left:3px;
+ color:grey;
+}
+
+#data_birth_s
+{
+ margin-right: 20px;
+ position: relative;
+ top: 20px;
+ left: -148px;
+ display: inline;
+ height: 24px;
+}
+
+#data_birth_y
+{
+ position:relative;
+ top:20px;
+ left: 27px;
+ height:20px;
+ padding-left:3px;
+ color:grey;
+}
+
+.etichetteright
+{
+ position:relative;
+ left:23px;
+ top: -10px;
+}
+
+.campiright
+{
+ position:relative;
+ left: 0px;
+ height:20px;
+ top:0px;
+}
+
+#etichettadata
+{
+ position:relative;
+ left: 23px;
+ top: -10px;
+}
+
+#data_birth_dmod
+{
+ position:relative;
+ left:5px;
+ height:20px;
+ top:5px;
+ padding-left:3px;
+ color:grey;
+}
+
+#data_birth_smod
+{
+ margin-right: 20px;
+ position: relative;
+ top: 20px;
+ right: 144px;
+ display: inline;
+ height: 24px;
+}
+
+#data_birth_ymod
+{
+ position:relative;
+ top:20px;
+ left: 30px;
+ height:20px;
+ padding-left:3px;
+ color:grey;
+}
+
+#registra
+{
+ position:relative;
+ left:165px;
+ top: -4px;
+ padding:2px;
+ background-color:#5679B6;
+ border: 1px solid transparent;
+ color:white;
+ text-align: center;
+ font-size: 11px;
+ font-weight: bold;
+ height: 35px;
+ width:100px;
+ letter-spacing:1px;
+}
+
+
+#accedi
+{
+ position:relative;
+ left:35px;
+ top: 5px;
+ background-color:#5679B6;
+ border: 1px solid transparent;
+ color:white;
+ text-align: center;
+ font-size: 12px;
+ font-weight: bold;
+ height: 35px;
+ width:100px;
+}
+
+#recupera
+{
+ position:absolute;
+ color:#8b8989;
+ top:282px;
+ right:25px;
+ font-size: 13px;
+ color:#5679B6;
+}
+#footer
+{
+position:absolute;
+bottom:0px;
+left:0px;
+height:1px;
+width:100%;
+background-color:#f1f1f1;
+}
+#descrfooter
+{
+  display:inline;
+  font-size:11px;
+	margin: 0px 0px 0px 55px;
+}
+#contatti
+{
+ font-size:12px;
+ margin-left: 10px;
+ text-decoration: none;
+ color: #5679B6;
+}

@@ -1,0 +1,644 @@
+html
+{
+ height:100%;
+}
+body
+{
+ font-family: Tahoma,sans-serif;
+ font-size: 16px;
+ margin: 0px;
+ line-height: 25px;
+ height:100%;
+}
+
+input[type=button]:hover, input[type=submit] {
+ cursor: pointer;
+}
+
+.mouse
+{
+cursor: pointer;
+}
+
+#intestazione
+{
+ background-color:#f1f1f1;
+ height: 25px;
+ padding:1%;
+ margin-top:0px;
+}
+
+#websitelogo
+{
+float:left;
+position:relative;
+top:-1px;
+left:1%;
+height:35px;
+cursor:pointer;
+border:none;
+}
+#avatar
+{
+ position:absolute;
+ top:1%;
+  left:65.5%;
+ width:40px;
+ height:40px;
+ cursor:pointer;
+}
+#nomeutente
+{
+ position:absolute;
+ top:1%;
+ left:68.7%;
+ font-size: 12px;
+ font-weight:bold;
+ cursor:pointer;
+}
+
+#Home
+{
+ position:absolute;
+ top:17px;
+ right:117px;
+ color:black;
+ text-decoration: none;
+ font-size: 14px;
+ font-weight:bold;
+}
+
+#tasto
+{
+ position:absolute;
+ top:12px;
+ right:37px;
+ width:35px;
+ height:35px;
+ cursor:pointer;
+}
+
+#nuovodiv
+{
+ background-color:#f1f1f1;
+ height: 40px;
+ width:40px;
+ padding:1%;
+ position:absolute;
+ top:52px;
+ right:12px;
+}
+
+#ullista
+{
+list-style-type:none;
+position:absolute;
+top:-10px;
+right:5px;
+text-align:center;
+}
+
+a
+{
+text-decoration:none;
+color:black;
+}
+
+.chartext
+{
+ font-size: 12px;
+ font-weight:bold;
+}
+
+#azioni
+{
+position:absolute;
+top:43px;
+right:19px;
+background-color:#f1f1f1;
+width:70px;
+height:60px;
+}
+
+#azionifree
+{
+position:absolute;
+top:43px;
+right:25px;
+background-color:#f1f1f1;
+width:55px;
+height:35px;
+}
+#menusx
+{
+ width:16.5%;
+ height:92%;
+ border: 1px solid #e5e5e5;
+}
+.elemlista
+{
+font-size: 14px;
+cursor:pointer;
+}
+#submenusx
+{
+list-style-type:none;
+}
+#heart
+{
+ position:absolute;
+ top:12%;
+ left:20%;
+ width:76.5%;
+ height:87%;
+ border: 1px solid #e5e5e5;
+}
+#subinfo
+{
+ width:100%;
+ height:8%;
+ background-color:#f1f1f1;
+ margin-top:-25px;
+}
+#header5
+{
+padding-top:10px;
+padding-left:15px;
+font-size: 14px;
+font-weight:bold;
+}
+#settaggi
+{
+ position:relative;
+ height:30px;
+ width:30px;
+ top:-50px;
+ left:225px;
+ float:left;
+}
+#settaggiimp
+{
+ position:relative;
+ height:30px;
+ width:30px;
+ top:-50px;
+ left:180px;
+ float:left;
+}
+#miaimmagine
+{
+ width:100px;
+ height:100px;
+ position:absolute;
+ top:13%;
+ left:2.9%;
+}
+#eticaricafoto
+{
+ font-size: 14px;
+ position:absolute;
+ top:12%;
+ left:14.5%;
+}
+#caricacitta
+{
+ font-size: 14px;
+ position:absolute;
+ top:50%;
+ left:2.5%;
+}
+#caricaindirizzo
+{
+ font-size: 14px;
+ position:absolute;
+ top:50%;
+ left:2.5%;
+}
+#inserimg
+{
+ position:absolute;
+ top:18%;
+ left:14.5%;
+}
+#caricaimg
+{
+ position:absolute;
+ top:24%;
+ left:14.5%;
+}
+#city
+{
+ position:absolute;
+ top:55%;
+ left:2.5%;
+}
+#indirizzo
+{
+ position:absolute;
+ top:55%;
+ left:2.5%;
+}
+#loadcity
+{
+ position:absolute;
+ top:55%;
+ left:230px;
+}
+#loadindirizzo
+{
+ position:absolute;
+ top:54.5%;
+ left:230px;
+}
+.etichette
+{
+ font-size: 17px;
+ padding:12%;
+}
+.etichettestruttura
+{
+ font-size: 12px;
+ padding:1%;
+}
+.etichetteimpianto
+{
+ font-size: 15px;
+ padding-left:25%;
+}
+#tabella
+{
+ position:absolute;
+ top:10%;
+ left:45%;
+ border:1px dashed grey;
+ width:50%;
+ height:84%;
+}
+#tab1
+{
+ position:absolute;
+ top:15%;
+ left:2%;
+ border:1px dashed grey;
+ width:45%;
+ height:70%;
+}
+#tab2
+{
+ position:absolute;
+ top:15%;
+ left:53%;
+ border:1px dashed grey;
+ width:45%;
+ height:70%;
+}
+
+
+
+.campo
+{
+ width:70px;
+ height:45px;
+ padding-left:27%;
+}
+
+.tasto
+{
+ background-color:#f1f1f1;
+ border: 1px solid #e5e5e5;
+ text-align: center;
+ font-size: 12px;
+ font-weight: bold;
+ height: 35px;
+ width:100px;
+}
+#loadpsw
+{
+ position:relative;
+ left:36%;
+}
+#loadmail
+{
+ position:relative;
+ left:39.5%;
+}
+#loadstruttura
+{
+ position:relative;
+ left:40%;
+}
+#nome,#cognome,#email,#telefono,#datanascita,#citta,#rsociale,#iva,#address
+{
+ position:relative;
+ left:20%;
+ text-align:center;
+}
+#oldpsw,#newpsw,#confirmpsw,#oldmail,#newmail,#confirmmail
+{
+ position:relative;
+ left:15%;
+ text-align:center;
+}
+td,tr,th
+{
+ border:1px dashed grey;
+ height:5px;
+}
+.quantita
+{
+ text-align:center;
+ margin-left:36%;
+}
+
+.titolotabella
+{
+ border:1px dashed grey;
+ background-color:#f1f1f1;
+ font-size:18px;
+}
+#footer
+{
+position:absolute;
+bottom:0px;
+left:0px;
+height:1px;
+width:100%;
+background-color:#f1f1f1;
+}
+#descrfooter
+{
+  display:inline;
+  font-size:11px;
+   margin: 0px 0px 0px 55px;
+}
+#contatti
+{
+ font-size:12px;
+ margin-left: 10px;
+ text-decoration: none;
+ color: #5679B6;
+}
+
+#tab3
+{
+ position:absolute;
+ top:12.5%;
+ left:2%;
+ border:1px dashed grey;
+ width:45%;
+}
+.intest
+{
+width:68.7%;
+}
+#altro
+{
+ margin-left:13%;
+}
+.tabellaunodisp {
+ position:absolute;
+ top:12.5%;
+ left:5%;
+ border:1px dashed grey;
+ width:90%;
+ height:80%;
+}
+.tabellaunodisp td {
+ height:10%;
+}
+#price
+{
+ width:17.4%;
+}
+#etistrutt
+{
+ width:14.8%;
+}
+#etisport
+{
+ width:17%;
+ cursor:pointer;
+}
+#etidatai
+{
+ width:18%;
+  cursor:pointer;
+}
+#etiorai
+{
+ width:17%;
+  cursor:pointer;
+}
+#eticog
+{
+ width:6.8%;
+ cursor:pointer;
+}
+#etinom
+{
+width:7.6%;
+}
+#etitel
+{
+width:6%;
+}
+#etisportpren
+{
+width:4.4%;
+cursor:pointer;
+}
+#pricepren
+{
+ width:3.5%;
+}
+#etidataipren
+{
+  width:5.2%;
+  cursor:pointer;
+}
+#etistruttpren
+{
+ width:4.2%;
+}
+#etioraipren
+{
+ width:6%;
+}
+#etiorafpren
+{
+ width:2%;
+}
+
+#costopren
+{
+ width:6%;
+}
+#confdatai
+{
+ width:11%;
+}
+#conforai
+{
+ width:12%;
+}
+#conforaf
+{
+ width:11%;
+}
+#confstrutt
+{
+ width:8.35%;
+}
+#cognalla
+{
+ width:13.9%;
+}
+#nomalla
+{
+ width:14.3%;
+}
+#telalla
+{
+ width:14.1%;
+}
+#confdataialla
+{
+ width:11%;
+}
+#confstruttalla
+{
+  width:8%;
+}
+#conforaialla
+{
+  width:12%;
+}
+#costoalla
+{
+ width:6%;
+}
+#cog
+{
+ width:14%;
+}
+#nom
+{
+ width:16%;
+}
+#etirag
+{
+ width:11%;
+}
+#eticit
+{
+ width:12%;
+}
+#etiind
+{
+ width:12%;
+}
+#confstruttutente
+{
+ width:6%;
+}
+#confdataiutente
+{
+ width:17%;
+}
+#conforaiutente
+{
+ width:15.5%;
+}
+#conforafutente
+{
+ width:9%;
+}
+#costoutente
+{
+ width:4%;
+}
+#grandsportrel
+{
+ width:9%;
+}
+#grandsportrelutente
+{
+ width:16%;
+}
+#telester
+{
+ width:12.5%;
+}
+.centro
+{
+text-align:center;
+width:220px;
+}
+
+
+.tabellauno {
+ position:absolute;
+ top:12.5%;
+ left:53%;
+ border:1px dashed grey;
+ width:45%;
+ height:76%;
+}
+
+.tabellatre
+{
+ position:absolute;
+ top:12.5%;
+ left:2%;
+ border:1px dashed grey;
+ width:45%;
+ height:76%;
+}
+
+.tabellauno td {
+ height:10%;
+}
+
+.tabellatre td {
+ height:10%;
+}
+
+.contiene
+{
+ height:82%;
+}
+
+.tabelladue {
+margin:0;
+padding:0;
+background: transparent;
+}
+
+.tabellaquattro {
+margin:0;
+padding:0;
+background: transparent;
+}
+
+
+.tabelladue td {
+ width:220px;
+}
+
+.tabellaquattro td {
+ width:220px;
+}
+
+.divinterno
+{
+height:100%;
+overflow:auto;
+}
+#oldriga
+{
+ background-color:#FF6262;
+}
+#currentriga
+{
+ background-color:#50BA48;
+}

@@ -1,0 +1,179 @@
+html
+{
+ height:100%;
+}
+body
+{
+ font-family: Tahoma,sans-serif;
+ font-size: 16px;
+ margin: 0px;
+ line-height: 25px;
+ height:100%;
+}
+
+#intestazione
+{
+ background-color:#f1f1f1;
+ height: 25px;
+ padding:1%;
+  margin-top:-16px;
+}
+
+#websitelogo
+{
+float:left;
+position:relative;
+top:0px;
+left:1%;
+height:35px;
+cursor:pointer;
+border:none;
+}
+
+#avatar
+{
+ position:absolute;
+ top:1%;
+ left:66.35%;
+ width:40px;
+ height:40px;
+ cursor:pointer;
+}
+#nomeutente
+{
+ position:absolute;
+ top:1%;
+ left:69.5%;
+ font-size: 12px;
+ font-weight:bold;
+ cursor:pointer;
+}
+
+#Home
+{
+ position:absolute;
+ top:17px;
+ right:100px;
+ color:black;
+ text-decoration: none;
+ font-size: 14px;
+ font-weight:bold;
+}
+
+#tasto
+{
+ position:absolute;
+ top:12px;
+ right:20px;
+ width:35px;
+ height:35px;
+ cursor:pointer;
+}
+
+#nuovodiv
+{
+ background-color:#f1f1f1;
+ height: 40px;
+ width:40px;
+ padding:1%;
+ position:absolute;
+ top:52px;
+ right:12px;
+}
+
+#ullista
+{
+list-style-type:none;
+position:absolute;
+top:-10px;
+right:5px;
+text-align:center;
+}
+
+a
+{
+text-decoration:none;
+color:black;
+}
+
+.chartext
+{
+ font-size: 12px;
+ font-weight:bold;
+}
+
+#azioni
+{
+position:absolute;
+top:43px;
+right:2px;
+background-color:#f1f1f1;
+width:70px;
+height:60px;
+}
+
+#azionifree
+{
+position:absolute;
+top:43px;
+right:10px;
+background-color:#f1f1f1;
+width:55px;
+height:35px;
+}
+#heartdxreg
+{
+ position:absolute;
+ right:35%;
+ top: 30%;
+ margin-left:35%;
+ background-color:#f1f1f1;
+ height: 200px;
+ width: 350px;
+
+ border: 1px solid #e5e5e5;
+}
+.chartext
+{
+ font-size: 13px;
+ font-weight:bold;
+}
+.etichettereg
+{
+ margin-left:8%;
+ position:relative;
+ top:-10px;
+}
+.campireg
+{
+ height:25px;
+ margin-left:7%;
+ position:relative;
+ top:-25px;
+}
+#accedi
+{
+ position:relative;
+ left:34%;
+ top: -15px;
+ background-color:#FC4040;
+ border: 1px solid transparent;
+ color:white;
+ text-align: center;
+ font-size: 12px;
+ font-weight: bold;
+ height: 35px;
+ width:100px;
+}
+.titolorec
+{
+ font-size: 14px;
+ font-weight: bold;
+ text-align: center;
+ color:#FC4040;
+}
+#username
+{
+ position:relative;
+ top:-7px;
+}

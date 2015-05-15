@@ -1,0 +1,78 @@
+#intestazionehome
+{
+ background-color:#f1f1f1;
+ height: 80px;
+ padding:1%;
+}
+
+#websitelogohome
+{
+float:left;
+position:relative;
+top:15px;
+left:5%;
+height:50px;
+cursor:pointer;
+}
+
+#heart
+{
+ height:560px;
+ top: 35px;
+}
+
+#heartcx
+{
+ margin-left:50%;
+ margin-top:25%;
+ height: 380px;
+ width: 550px;
+ padding: 0px 10px 30px 10px;
+ border:1px solid red;
+}
+
+#descriptionone
+{
+ font-size: 15px;
+ font-weight:bold;
+ text-align:left;
+}
+
+
+html
+{
+ height:100%;
+}
+body
+{
+ font-family: Arial,sans-serif;
+ font-size: 16px;
+ margin: 0px;
+ line-height: 25px;
+ height:100%;
+}
+
+
+
+#intestazione
+{
+ background-color:#f1f1f1;
+ height: 50px;
+ padding:1%;
+}
+
+#websitelogo
+{
+float:left;
+position:relative;
+top:15px;
+left:5%;
+height:35px;
+cursor:pointer;
+}
+
+.titlelogin
+{
+ font-size: 12px;
+ font-weight:bold;
+}

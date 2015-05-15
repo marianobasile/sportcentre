@@ -1,0 +1,412 @@
+html
+{
+ height:100%;
+}
+body
+{
+ font-family: Arial,sans-serif;
+ font-size: 16px;
+ margin: 0px;
+ line-height: 25px;
+ height:100%;
+}
+
+#intestazione
+{
+ background-color:#f1f1f1;
+ height: 25px;
+ padding:1%;
+ margin-top:-15px;
+}
+
+
+
+#websitelogo
+{
+float:left;
+position:relative;
+top:-1px;
+left:1%;
+height:35px;
+cursor:pointer;
+border:none;
+}
+#avatar
+{
+ position:absolute;
+ top:1%;
+ left:65.5%;
+ width:40px;
+ height:40px;
+ cursor:pointer;
+}
+#nomeutente
+{
+ position:absolute;
+ top:1%;
+ left:68.7%;
+ font-size: 12px;
+ font-weight:bold;
+ cursor:pointer;
+}
+
+#Home
+{
+ position:absolute;
+ top:17px;
+ right:117px;
+ color:black;
+ text-decoration: none;
+ font-size: 14px;
+ font-weight:bold;
+}
+
+#tasto
+{
+ position:absolute;
+ top:12px;
+ right:37px;
+ width:35px;
+ height:35px;
+ cursor:pointer;
+}
+
+#tasto
+{
+ position:absolute;
+ top:12px;
+ right:37px;
+ width:35px;
+ height:35px;
+ cursor:pointer;
+}
+
+#nuovodiv
+{
+ background-color:#f1f1f1;
+ height: 40px;
+ width:40px;
+ padding:1%;
+ position:absolute;
+ top:52px;
+ right:12px;
+}
+
+#ullista
+{
+list-style-type:none;
+position:absolute;
+top:-10px;
+right:8px;
+text-align:center;
+}
+
+a
+{
+text-decoration:none;
+color:black;
+}
+
+.chartext
+{
+ font-size: 12px;
+ font-weight:bold;
+}
+
+#azioni
+{
+position:absolute;
+top:43px;
+right:19px;
+background-color:#f1f1f1;
+width:70px;
+height:60px;
+}
+
+#azionifree
+{
+position:absolute;
+top:43px;
+right:25px;
+background-color:#f1f1f1;
+width:55px;
+height:35px;
+}
+#cerca
+{
+ position:relative;
+ width:92%;
+ height:85%;
+ margin: 2%;
+ border:1px solid #e5e5e5;
+}
+#cercariepilogo
+{
+ position:relative;
+ width:92%;
+ height:98%;
+ margin: 1%;
+ border:1px solid #e5e5e5;
+}
+#header5
+{
+padding-top:10px;
+padding-left:15px;
+font-size: 14px;
+font-weight:bold;
+}
+.header5riepilogo
+{
+padding-top:10px;
+padding-left:15px;
+font-size: 14px;
+font-weight:bold;
+}
+#grandsport
+{
+ width:25%;
+}
+#grandsportrel
+{
+ width:50%;
+}
+.immaginesport
+{
+ width:100px;
+ height:70px;
+ position:absolute;
+ top:86%;
+ right:1%;
+}
+.immaginesportprenotazione
+{
+ width:70px;
+ height:50px;
+ margin-left:1%;
+
+}
+#titlesearch
+{
+ position:relative;
+ width:100%;
+ height:8%;
+ background-color:#f1f1f1;
+ margin-top:-25px;
+}
+#impdisp
+{
+ text-align:center;
+}
+#importo
+{
+text-align:center;
+}
+.sport
+{
+ font-family: Tahoma,sans-serif;
+ font-size: 20px;
+}
+
+td,tr,th
+{
+ border:1px dashed grey;
+ height:5px;
+ text-align:center;
+}
+th
+{
+ background-color:#f1f1f1;
+}
+
+#tabellauno {
+ position:absolute;
+ top:12.5%;
+ left:0%;
+ border:1px dashed grey;
+}
+
+
+.etichettestruttura
+{
+ font-size: 12px;
+ padding:0%;
+}
+.tasto
+{
+ background-color:#f1f1f1;
+ border: 1px solid #e5e5e5;
+ text-align: center;
+ font-size: 12px;
+ font-weight: bold;
+ height: 40px;
+ width:80px;
+ margin-right:10px;
+}
+#tastoprenota
+{
+ background-color:green;
+ color:white;
+ border: 1px solid #e5e5e5;
+ text-align: center;
+ font-size: 12px;
+ font-weight: bold;
+ height: 40px;
+ width:80px;
+ margin-right:10px;
+}
+#footer
+{
+position:absolute;
+bottom:0px;
+left:0px;
+height:1px;
+width:100%;
+background-color:#f1f1f1;
+}
+#descrfooter
+{
+  display:inline;
+  font-size:11px;
+   margin: 0px 0px 0px 55px;
+}
+#contatti
+{
+ font-size:12px;
+ margin-left: 10px;
+ text-decoration: none;
+ color: #5679B6;
+}
+.tabellaunopren {
+ position:absolute;
+ top:13%;
+ left:0%;
+ border:1px dashed grey;
+ width:100%;
+ height:88%;
+}
+.tabellaunopren td {
+ height:10%;
+}
+#contiene
+{
+ height:82%;
+}
+
+.tabelladue {
+margin:0;
+padding:0;
+background: transparent;
+}
+
+.tabelladue td {
+ width:220px;
+}
+.divinterno
+{
+height:100%;
+overflow:auto;
+}
+#etisportpren
+{
+ width:25.6%;
+}
+#etistruttpren
+{
+  width:12%;
+}
+#eticittapren
+{
+ width:12.7%;
+}
+#etidataipren
+{
+ width:13.4%;
+}
+#etioraipren
+{
+ width:12.3%;
+}
+#etiorafpren
+{
+ width:12.4%;
+}
+#selimpianto
+{
+ width:11%;
+ padding-top:10px;
+padding-left:15px;
+font-size: 14px;
+font-weight:bold;
+}
+.datipren
+{
+text-align:center;
+}
+.inlinea
+{
+display:inline;
+margin-left:1%;
+}
+#luogopren
+{
+ margin-left:20%;
+}
+#telpren
+{
+ margin-left:13.5%;
+ margin-top:10%;
+}
+#impiantolargo
+{
+width:10%;
+}
+.sportscelto
+{
+ color:#FF8000;
+ margin-left:1%;
+}
+.datascelta
+{
+ display:inline;
+ margin-left:1%;
+}
+.sportsceltolinea
+{
+ color:#FF8000;
+ margin-left:1%;
+ display:inline;
+}
+hr
+{
+ position:relative;
+ top:-10px;
+}
+
+#tastoprenota
+{
+ position:absolute;
+ right:5%;
+ top:90%;
+}
+#annulla
+{
+ position:absolute;
+ right:13%;
+ top:90%;
+}
+.marginesx
+{
+ margin-left:1%;
+}
+.marginesxsx
+{
+ margin-left:5%;
+}
+#telefonopren
+{
+ margin-left:0.6%;
+}
+#marginesxsxmail
+{
+ margin-left:2%;
+}
